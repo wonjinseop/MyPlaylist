@@ -1,5 +1,10 @@
   		 가수명				노래명
 =============================================
+    #Pop
 		Lauv                Steal The Show
         Sia                 Snowman
         Charlie puth        Dangerously
+
+    #힙합
+		래원				New Zealand
+		호미들				사이렌
